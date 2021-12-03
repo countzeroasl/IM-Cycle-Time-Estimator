@@ -33,7 +33,7 @@ match your specific needs, you can find it in the file Form1.cs on lines 131 and
 I hope you enjoy this program as much as I did writing it.  I feel that it brings data from many sources together in one
 place for convenient use by molders and engineers for both cycle development verification and cost estimation.  I have 
 tried to make it easy to use and as light as possible.  If you have any comments, questions or suggestions for improvement, 
-feel free to contact me at jswallesdaf@hotmail.com.
+feel free to contact me at joshua.walles1@gmail.com.
 
 Joshua Walles
 Project Engineer
